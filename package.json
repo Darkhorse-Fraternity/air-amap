@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+        "spec": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:Darkhorse-Fraternity/air-amap.git",
+          "sshUrl": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+          "httpsUrl": "git+https://github.com/Darkhorse-Fraternity/air-amap.git",
+          "gitUrl": "git://github.com/Darkhorse-Fraternity/air-amap.git",
+          "shortcut": "github:Darkhorse-Fraternity/air-amap",
+          "directUrl": "https://raw.githubusercontent.com/Darkhorse-Fraternity/air-amap/master/package.json"
+        }
+      },
+      "/Users/lintong/Project/react-native/DBike"
+    ]
+  ],
+  "_from": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+  "_id": "air-amap@1.0.0",
+  "_inCache": true,
+  "_location": "/air-amap",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+    "spec": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:Darkhorse-Fraternity/air-amap.git",
+      "sshUrl": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+      "httpsUrl": "git+https://github.com/Darkhorse-Fraternity/air-amap.git",
+      "gitUrl": "git://github.com/Darkhorse-Fraternity/air-amap.git",
+      "shortcut": "github:Darkhorse-Fraternity/air-amap",
+      "directUrl": "https://raw.githubusercontent.com/Darkhorse-Fraternity/air-amap/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git#02f6a0aaf53cb4ed4c3a2f111e8ba5489f1b7487",
+  "_shasum": "5667a02743ba853e8d57833cb65702154f3c6bf1",
+  "_shrinkwrap": null,
+  "_spec": "git+ssh://git@github.com/Darkhorse-Fraternity/air-amap.git",
+  "_where": "/Users/lintong/Project/react-native/DBike",
+  "author": {
+    "name": "marshalYuan"
+  },
+  "bugs": {
+    "url": "https://github.com/dianwoba/react-native-amap/issues"
+  },
+  "dependencies": {},
+  "description": "React Native AMap component for iOS + Android",
+  "devDependencies": {
+    "babel-eslint": "^6.1.0",
+    "eslint": "^3.0.1",
+    "eslint-plugin-flowtype": "^2.3.0",
+    "eslint-plugin-react": "^5.2.2",
+    "react": "^0.14.8",
+    "react-native": "^0.24.1"
+  },
+  "gitHead": "02f6a0aaf53cb4ed4c3a2f111e8ba5489f1b7487",
+  "homepage": "https://github.com/dianwoba/react-native-amap#readme",
+  "keywords": [
+    "react",
+    "native",
+    "amap",
+    "location"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "air-amap",
+  "optionalDependencies": {},
+  "readme": "# react-native-amap\nReact Native AMap component for iOS + Android\n\n### react-native-amap-view is a wrapper of AMap's Libraries inspired by react-native-maps and it's usable in Android and iOS\n\n###Demo\n\n![demo-gif](https://raw.githubusercontent.com/dianwoba/react-native-amap/master/doc/assets/demo.gif)\n\n### Installation\n\n`npm install react-native-amap-view --save`\n\n### Docs\n\n内部使用阶段，迭代稳定后会补充文档\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianwoba/react-native-amap.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
